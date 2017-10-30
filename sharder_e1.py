@@ -2,6 +2,7 @@
 
 
 def splitter(text):
+    "Return list (_sentences) of sentences."
     _sentences = []
     _sentence = ''
     for index, char in enumerate(text):
