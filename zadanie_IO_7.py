@@ -8,5 +8,7 @@ def number_lines_in_file(filename):
     with open(filename) as f:
         file_content = f.readlines()
 
+    for index in range(len(file_content)):
+        file_content[index] = "{} {}".format(index+1, file_content[index])
 
 number_lines_in_file('test_file_for_exe_IO_7.txt')
