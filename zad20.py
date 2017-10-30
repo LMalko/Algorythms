@@ -10,10 +10,9 @@ def translate(english_wishes):
                         "new": "nytt",
                         "year": "år"
                     }
-
     _swedish_wishes = []
-    for word in english_wishes:
+    for word in english_wishes.split(' '):
         if word in _my_lexicon:
             _translated_word = _my_lexicon[word]
             _swedish_wishes.append(_translated_word)
-    return _swedish_wishes
+    return ' '.join(_swedish_wishes)
