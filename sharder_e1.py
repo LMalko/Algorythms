@@ -31,8 +31,6 @@ def splitter(text):
         elif char == '.':
             # check skip conditions (period is not end of sentence):
             if index < len(text) - 1 and index not in (0, 1, 2, 3):
-                # set next/previous word:
-                # _prevoius_char = text[index-1]
                 _next_char = text[index+1]
 
                 if _next_char != ' ':
