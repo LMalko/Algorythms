@@ -12,7 +12,7 @@ def bottles_99(bottles=99):
 
     bottles_left = bottles
 
-    while bottles_left != 1:
+    while bottles_left > 1:
 
         print(str(bottles_left) + " bottles of beer on the wall, " + str(bottles_left) + " bottles of beer.")
 
@@ -24,4 +24,4 @@ def bottles_99(bottles=99):
             \nTake one down, pass it around, 0 bottles of beer on the wall."
 
 
-print(bottles_99())
+print(bottles_99(13))
