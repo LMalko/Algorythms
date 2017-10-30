@@ -8,9 +8,7 @@ The same verse is repeated, each time with one fewer bottle.The song is complete
 Your task here is write a Python program capable of generating all the verses of the song.'''
 
 
-def bottles_99(bottles=99):
-
-    bottles_left = bottles
+def bottles_99(bottles_left=99):
 
     while bottles_left > 1:
 
