@@ -1,1 +1,6 @@
-The Scratch Cat is the mascot of Scratch and the default sprite when opening a new Scratch project. This can no longer be changed. It is also the outline for the default icon of new Scratch accounts, replacing a previous version that showed a human silhouette. The Scratch Cat is a trademark of MIT and was drawn by Wing Ngan. According to Scratch Team member Ceebee, the Scratch Cat is nonbinary, meaning that they do not identify as strictly male or female in terms of gender. However, many users, even some Scratch Team members, use other pronouns for Scratch Cat, especially he/him. 
+The Scratch Cat is the mascot of Scratch and the default sprite when opening a new Scratch project. 
+This can no longer be changed. It is also the outline for the default icon of new Scratch accounts, 
+replacing a previous version that showed a human silhouette. The Scratch Cat is a trademark of MIT 
+and was drawn by Wing Ngan. According to Scratch Team member Ceebee, the Scratch Cat is nonbinary, 
+meaning that they do not identify as strictly male or female in terms of gender. However, many users, 
+even some Scratch Team members, use other pronouns for Scratch Cat, especially he/him. 
